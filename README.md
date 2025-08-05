@@ -1,16 +1,47 @@
-## Hi there 👋
+## 👁️ Hello friend. Hello friend? That's lame.
 
-<!--
-**kimuraseki/kimuraseki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+$ whoami
+Chris  
+$ alias Chris
+kimuraseki
+```
 
-Here are some ideas to get you started:
+📚 Computer Science Student  
+🖥️ Working in **C**, **C++**, **C#**, **GDScript**, **Java**, **Python**  
+🧷 Developer. Tinkerer.  
+🐧 Linux-first, terminal-native  
+🔐 Privacy, security, and digital media preservation advocate  
+🎮 Passionate gamer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🗂️ Projects
+
+📦 Most of my work is CLI-first, minimal, and designed for usability.
+
+Check my pinned repos for:
+- 📁 Dotfiles and scripts
+- 🎮 Game-related experiments/tests
+
+---
+
+## 📡 Status
+
+📚 Studying
+🎮 Developing games in Godot
+🛠️ Exploring low-level systems & software architecture  
+🎯 Goal: Make software that works offline, works forever, and works *well*
+
+---
+
+## 🔗 Links
+
+- 🌐 [kimuraseki.github.io](https://kimuraseki.github.io)
+- 🐙 [GitHub](https://github.com/kimuraseki)
+- 🦊 [GitLab](https://gitlab.com/kimuraseki)
+
+---
+
+> Avatar: Rebecca — *Cyberpunk: Edgerunners*  
+> Like her: small footprint, fast response, never fake
