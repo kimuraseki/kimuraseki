@@ -28,8 +28,8 @@ Check my pinned repos for:
 
 ## 📡 Status
 
-📚 Studying
-🎮 Developing games in Godot
+📚 Studying   
+🎮 Developing games in Godot   
 🛠️ Exploring low-level systems & software architecture  
 🎯 Goal: Make software that works offline, works forever, and works *well*
 
