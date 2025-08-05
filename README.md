@@ -8,7 +8,7 @@ kimuraseki
 ```
 
 📚 Computer Science Student  
-🖥️ Working in **C**, **C++**, **C#**, **GDScript**, **Java**, **Python**  
+🖥️ Working in **C**, **C++**, **C#**, **GDScript**, **Java**, **Python**, **RISC-V Assembly**  
 🧷 Developer. Tinkerer.  
 🐧 Linux-first, terminal-native  
 🔐 Privacy, security, and digital media preservation advocate  
