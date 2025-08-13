@@ -1,4 +1,4 @@
-## 👁️ Hello friend. Hello friend? That's lame.
+## 👋 Hello there
 
 ```
 $ whoami
@@ -40,8 +40,3 @@ Check my pinned repos for:
 - 🌐 [kimuraseki.github.io](https://kimuraseki.github.io)
 - 🐙 [GitHub](https://github.com/kimuraseki)
 - 🦊 [GitLab](https://gitlab.com/kimuraseki)
-
----
-
-> Avatar: Rebecca — *Cyberpunk: Edgerunners*  
-> Like her: small footprint, fast response, never fake
