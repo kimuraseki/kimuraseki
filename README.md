@@ -1,4 +1,4 @@
-## Hello there
+## Hello there!
 
 ```
 $ whoami
@@ -13,6 +13,8 @@ kimuraseki
 🐧 Linux-first, terminal-native  
 🔐 Privacy, security, and digital media preservation advocate  
 🎮 Passionate gamer
+
+![Header](./banner.png)
 
 ---
 
@@ -29,7 +31,7 @@ Check my pinned repos for:
 ## 📡 Status
 
 📚 Studying   
-🎮 Developing games in Godot   
+🎮 Developing games in Unity   
 🛠️ Exploring low-level systems & software architecture  
 🎯 Goal: Make software that works offline, works forever, and works *well*
 
