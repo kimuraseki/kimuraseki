@@ -42,3 +42,7 @@ Check my pinned repos for:
 - 🌐 [kimuraseki.github.io](https://kimuraseki.github.io)
 - 🐙 [GitHub](https://github.com/kimuraseki)
 - 🦊 [GitLab](https://gitlab.com/kimuraseki)
+- 🎮 [itch.io](https://itch.io/profile/kimuraseki)
+- 🎨 [pixiv](https://www.pixiv.net/users/119973196)
+- 🌀 [DeviantArt](https://www.deviantart.com/kimuraseki)
+- 📺 [YouTube](https://youtube.com/@kimuraseki)
